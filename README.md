@@ -1,4 +1,4 @@
-### Hi, I'm **Ironieser**👋
+### Hi, it's **Ironieser**!👋
 
 <!--
 **Ironieser/Ironieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
 - - -
 
-### Profile
+### Profile👶
 
-✍**Educational:**
+🎓**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
     - Process Equipment and Control Engineering (mojor)
