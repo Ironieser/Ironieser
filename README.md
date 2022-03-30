@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by professor [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).
 
-
+- - -
+💬 **News:**
+- 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
+- - -
+### profile
 ✍**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
@@ -39,8 +43,7 @@ Here are some ideas to get you started:
 ⚡ **Publications:**
  * [CVPR2022 Oral]((https://cvpr2022.thecvf.com/)TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [code](https://github.com/SvipRepetitionCounting/TransRAC)
 
-💬 **News:**
-- 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
+
 
 📫 **Reach me:**
 
