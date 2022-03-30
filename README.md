@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 
 📫 **Reach me:** ironieser@gmail.com
 
-[![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
