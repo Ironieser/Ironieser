@@ -11,11 +11,11 @@
 
 [![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 - - -
-💬 **News:**
+🎉 **News:**
 - 2022-03-28: A paper about repetition action counting was accepted as [CVPR 2022 Oral](https://cvpr2022.thecvf.com/).
 ---
 
-## About me👶
+## 👶About me
 
 🎓**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
@@ -35,7 +35,7 @@
      * Video Understanding and Analysis
      * Video Anomaly Detection  
 
-⚡ **Publications:**
+📄 **Publications:**
  * [[CVPR2022 Oral](https://cvpr2022.thecvf.com/)] TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[code](https://github.com/SvipRepetitionCounting/TransRAC)][[dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)]
 
  👨‍🦽**Funny work:**
@@ -44,7 +44,7 @@
 
 👯 Sincerely, I’m looking to collaborate with you on little fun idea and work to make our days.
 
-📫 **Reach me:** ironieser@gmail.com
+📧 **Reach me:** ironieser@gmail.com
 
 [![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
