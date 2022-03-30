@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
 
 📫 **Reach me:**
-*[Gmail](ironieser@gmail.com)
+
+[Gmail](ironieser@gmail.com)
