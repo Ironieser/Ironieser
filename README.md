@@ -2,8 +2,8 @@
 <h2 align="center">👋 Hello! I'm  Ironieser.   </h2>
 <p align="center">
   <a href="https://www.zhihu.com/people/ironieser">Zhihu</a> •
-  <a href="https://twitter.com/ironieser">Twitter</a> 
-  <a hred = "mailto:ironieser@gmail.com">Email</a>
+  <a href="https://twitter.com/ironieser">Twitter</a> •
+  <a href = "mailto:ironieser@gmail.com">Email</a>
 </p>
 
  
