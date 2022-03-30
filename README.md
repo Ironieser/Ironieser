@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 
 
 🔭 **Currently work:**
- * Video Understanding and Analysis
- * Self-supervised or Weekly-supervised Video Anomaly Detection  
+ * **CV**
+     * Self-supervised or Weekly-supervised 
+     * Video Understanding and Analysis
+     * Video Anomaly Detection  
 
 ⚡ **Publications:**
- * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022 Oral` [code](https://github.com/SvipRepetitionCounting/TransRAC)
+ * [CVPR2022 Oral]((https://cvpr2022.thecvf.com/)TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [code](https://github.com/SvipRepetitionCounting/TransRAC)
 
 💬 **News:**
 - 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
