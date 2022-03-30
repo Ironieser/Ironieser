@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.zhihu.com/people/ironieser">Zhihu</a> •
   <a href="https://twitter.com/ironieser">Twitter</a> 
+  <ironieser@gmail.com>
 </p>
 
  
