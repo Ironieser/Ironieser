@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
+
+- 🔭 I’m currently working on ...
+ * Video Understanding and Analysis
+ * Self-supervised or Weekly-supervised Video Anomaly Detection  
+
+- 👯 **Publications:**
+ * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022 Oral` [code](https://github.com/SvipRepetitionCounting/TransRAC)
+
+- 💬 **News:**
+- 2022-03-02: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
