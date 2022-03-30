@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ✍**Educational**
-* 2016 Dalian University of Technology(undergraduate)
+- (2016-2020) Dalian University of Technology(undergraduate)
 
 * Process Equipment and Control Engineering (mojor)
 * computer science (minor)
