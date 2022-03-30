@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 📫 **Reach me:**
 
-ironieser@gmail.com[[Gmail](ironieser@gmail.com)]
+ironieser@gmail.com
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
 
