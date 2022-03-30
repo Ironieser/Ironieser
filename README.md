@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - - -
 💬 **News:**
 - 2022-03-28: A paper about repetition action counting was accepted as [CVPR 2022 Oral](https://cvpr2022.thecvf.com/).
-- - -
+---
 
 ## Profile👶
 
