@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
-🔭 **currently work:**
+
+✍**Educational**
+* 2016 Dalian University of Technology(undergraduate)
+
+* Process Equipment and Control Engineering (mojor)
+* computer science (minor)
+
+  
+
+
+🔭 **Currently work:**
  * Video Understanding and Analysis
  * Self-supervised or Weekly-supervised Video Anomaly Detection  
 
