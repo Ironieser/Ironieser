@@ -45,7 +45,7 @@
 
 📧 **Reach me:** ironieser@gmail.com
 
-[![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎧Spotify Playing 
 
 [![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
