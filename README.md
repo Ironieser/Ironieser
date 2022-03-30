@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-ironieser.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ironieser)
+[![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 - - -
 💬 **News:**
 - 2022-03-28: A paper about repetition action counting was accepted as [CVPR 2022 Oral](https://cvpr2022.thecvf.com/).
