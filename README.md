@@ -7,9 +7,7 @@
 
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by professor [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).
 
-## 🎧Spotify Playing 
 
-[![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 - - -
 🎉 **News:**
 - 2022-03-28: A paper about repetition action counting was accepted as [CVPR 2022 Oral](https://cvpr2022.thecvf.com/).
@@ -48,7 +46,9 @@
 
 [![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+## 🎧Spotify Playing 
 
+[![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 
 <!--
 **Ironieser/Ironieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
