@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     - Computer Science (mojor)
 
 
-🔭 **Currently work:**
+🔭 **Currently research:**
  * **CV**
      * Self-supervised or Weekly-supervised 
      * Video Understanding and Analysis
@@ -45,13 +45,15 @@ Here are some ideas to get you started:
 ⚡ **Publications:**
  * [[CVPR2022 Oral](https://cvpr2022.thecvf.com/)] TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[code](https://github.com/SvipRepetitionCounting/TransRAC)]
 
+ 👨‍🦽**Funny work:**
 
+* A little script: [Storyteller Of Auto-Barrage](https://github.com/Ironieser/Storyteller_Of_Auto-Barrage)
+
+👯 Sincerely, I’m looking to collaborate on little fun idea and work to make our days.
 
 📫 **Reach me:**
 
 [Gmail](ironieser@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
 
