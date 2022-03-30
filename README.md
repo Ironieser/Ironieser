@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.zhihu.com/people/ironieser">Zhihu</a> •
   <a href="https://twitter.com/ironieser">Twitter</a> 
-  <a> ironieser@gmail.com</a>
+  <a hred = "mailto:ironieser@gmail.com">Email</a>
 </p>
 
  
