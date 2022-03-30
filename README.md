@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 *Process Equipment and Control Engineering (mojor)
 *computer science (minor)
 
-* NOW:[ShanghaiTech University](https://www.shanghaitech.edu.cn/)(master)
+* Now: [ShanghaiTech University](https://www.shanghaitech.edu.cn/)(master)
 *computer science(mojor) 
 
 
