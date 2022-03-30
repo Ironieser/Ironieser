@@ -42,7 +42,7 @@
 
 * A little script: [Storyteller Of Auto-Barrage](https://github.com/Ironieser/Storyteller_Of_Auto-Barrage)
 
-👯 Sincerely, I’m looking to collaborate on little fun idea and work to make our days.
+👯 Sincerely, I’m looking to collaborate with you on little fun idea and work to make our days.
 
 📫 **Reach me:** ironieser@gmail.com
 
