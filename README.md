@@ -23,16 +23,17 @@ Here are some ideas to get you started:
 - - -
 
 ### Profile
+
 ✍**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
     - Process Equipment and Control Engineering (mojor)
 
-    - computer science (minor)
+    - Computer Science (minor)
 
 * Now: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (master)
 
-    - computer science(mojor)
+    - Computer Science (mojor)
 
 
 🔭 **Currently work:**
