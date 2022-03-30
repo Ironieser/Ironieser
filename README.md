@@ -7,7 +7,7 @@
 
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by professor [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).
 
-### Spotify Playing 🎧
+## 🎧Spotify Playing 
 
 [![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 - - -
