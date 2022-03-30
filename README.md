@@ -51,6 +51,8 @@
 
 [![Spotify](https://spotify-playing-ironieser.vercel.app/api/spotify)](https://open.spotify.com/user/Ironieser)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=Ironieser&style=flat-square) 
 
 <!--
