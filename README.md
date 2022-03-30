@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
+😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
 
-✍**Educational**
-- (2016-2020) Dalian University of Technology(undergraduate)
+✍**Educational:*
+* 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn)(undergraduate)
+*Process Equipment and Control Engineering (mojor)
+*computer science (minor)
 
-* Process Equipment and Control Engineering (mojor)
-* computer science (minor)
-
-  
+* NOW:[ShanghaiTech University](https://www.shanghaitech.edu.cn/)(master)
+*computer science(mojor) 
 
 
 🔭 **Currently work:**
@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 📫 **Reach me:**
 
 [Gmail](ironieser@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+
