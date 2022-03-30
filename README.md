@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
     - Computer Science (minor)
 
-* Now: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (master)
+* Today: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (postgraduate student)
 
     - Computer Science (mojor)
 
