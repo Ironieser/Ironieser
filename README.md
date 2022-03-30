@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https:/spotify-ten-silk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/9d0df7c6329e49db8524b651c44b47b3)
+[![Spotify](https://spotify-ironieser.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ironieser)
 - - -
 💬 **News:**
 - 2022-03-28: A paper about repetition action counting was accepted as [CVPR 2022 Oral](https://cvpr2022.thecvf.com/).
