@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm **Ironieser**👋
 
 <!--
 **Ironieser/Ironieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html) in [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
-- 🔭 I’m currently working on ...
+- 🔭 **currently work:**
  * Video Understanding and Analysis
  * Self-supervised or Weekly-supervised Video Anomaly Detection  
 
