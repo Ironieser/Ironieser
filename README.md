@@ -43,7 +43,7 @@ Here are some ideas to get you started:
      * Video Anomaly Detection  
 
 ⚡ **Publications:**
- * [CVPR2022 Oral]((https://cvpr2022.thecvf.com/)TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [code](https://github.com/SvipRepetitionCounting/TransRAC)
+ * [CVPR2022 Oral](https://cvpr2022.thecvf.com/)TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [code](https://github.com/SvipRepetitionCounting/TransRAC)
 
 
 
