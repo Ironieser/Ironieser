@@ -55,5 +55,4 @@ Here are some ideas to get you started:
 
 ironieser@gmail.com
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
-
+[!Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true&theme=radical)
