@@ -23,7 +23,7 @@
 
     - Computer Science (minor)
 
-* Today: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (postgraduate student)
+* Nowaday: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (postgraduate student)
 
     - Computer Science (mojor)
 
