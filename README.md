@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 💬 **News:**
 - 2022-03-28: A paper about repetition action counting is accepted on [CVPR 2022 Oral](https://cvpr2022.thecvf.com/)
 - - -
-### profile
+
+### Profile
 ✍**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
