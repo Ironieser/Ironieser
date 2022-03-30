@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 😄 I’m a First-Year Master of [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)
 
 
-✍**Educational:*
+✍**Educational:**
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn)(undergraduate)
 *Process Equipment and Control Engineering (mojor)
 *computer science (minor)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  * Video Understanding and Analysis
  * Self-supervised or Weekly-supervised Video Anomaly Detection  
 
-👯 **Publications:**
+⚡ **Publications:**
  * TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting `CVPR 2022 Oral` [code](https://github.com/SvipRepetitionCounting/TransRAC)
 
 💬 **News:**
