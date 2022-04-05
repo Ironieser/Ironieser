@@ -12,7 +12,7 @@
 
 - - -
 🎉 **News:**
-- 2022-03-28: A [paper](https://cvpr2022.thecvf.com/) about repetition action counting was accepted as CVPR 2022 Oral.
+- 2022-03-28: A [paper](https://arxiv.org/abs/2204.01018) about repetition action counting was accepted as CVPR 2022 Oral.
 ---
 
 ## 👶About me
@@ -36,7 +36,7 @@
      * Video Anomaly Detection  
 
 📄 **Publications:**
- * (CVPR2022 Oral) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[paper](https://cvpr2022.thecvf.com/)] [[code](https://github.com/SvipRepetitionCounting/TransRAC)][[dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)]
+ * (CVPR2022 Oral) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[paper](https://arxiv.org/abs/2204.01018)] [[code](https://github.com/SvipRepetitionCounting/TransRAC)][[dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)]
 
  👨‍🦽**Funny work:**
 
