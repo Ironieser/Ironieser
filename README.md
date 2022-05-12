@@ -31,7 +31,7 @@
 
 🔭 **Currently research:**
  * **CV**
-     * Self-supervised or Weekly-supervised 
+     * Self-supervised or Weakly-supervised 
      * Video Understanding and Analysis
      * Video Anomaly Detection  
 
