@@ -12,7 +12,7 @@
 
 - - -
 🎉 **News:**
-- 2022-03-28: A [paper](https://arxiv.org/abs/2204.01018) about repetition action counting was accepted as CVPR 2022 Oral.
+- 2022-03-28: A [paper](https://arxiv.org/abs/2204.01018) about repetition action counting was accepted as **CVPR 2022 Oral**.
 ---
 
 ## 👶About me
