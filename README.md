@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://www.zhihu.com/people/ironieser">Zhihu</a> •
   <a href="https://twitter.com/ironieser">Twitter</a> •
-  <a href = "mailto:ironieser@gmail.com">Email</a>
+  <a href = "mailto:ironieser@gmail.com">Gmail</a>
+  <a href = "mailto:dongsx@shanghaitech.edu.cn">Email@edu</a>
 </p>
 
  
@@ -44,7 +45,7 @@
 
 👯 Sincerely, I’m looking to collaborate with you on little fun idea and work to make our days.
 
-📧 **Reach me:** ironieser@gmail.com
+📧 **Reach me:** ironieser@gmail.com, dongsx@shanghaitech.edu.cn
 
 [![Ironieser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ironieser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ironieser&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎧Spotify Playing 
