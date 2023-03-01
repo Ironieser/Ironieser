@@ -20,16 +20,17 @@
 ## 👶About me
 
 🎓**Educational:**
-* 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
-
-    - Process Equipment and Control Engineering (mojor)
-
-    - Computer Science (minor)
 
 * Nowaday: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (postgraduate student)
 
     - Computer Science (mojor)
 
+
+* 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
+
+    - Process Equipment and Control Engineering (mojor)
+
+    - Computer Science (minor)
 
 🔭 **Currently research:**
  * **CV**
@@ -38,6 +39,9 @@
      * Video Anomaly Detection  
 
 📄 **Publications:**
+  
+  * (CVPR2023) Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos. 
+
  * (CVPR2022 Oral) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[paper](https://arxiv.org/abs/2204.01018)] [[code](https://github.com/SvipRepetitionCounting/TransRAC)][[dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)][[Youtube](https://youtu.be/SFpUS9mHHpk)][[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
 
  👨‍🦽**Funny work:**
