@@ -48,7 +48,7 @@
 
 * A little script: [Storyteller Of Auto-Barrage](https://github.com/Ironieser/Storyteller_Of_Auto-Barrage)
 
-👯 Sincerely, I’m looking to collaborate with you on little fun idea and work to make our days.
+👯 I'm looking to inject some fun and creativity into my work week, and I'm guessing you are too. If you're keen to join forces and make something awesome happen, shoot me a message and let's make it a reality! 
 
 📧 **Reach me:** ironieser@gmail.com, dongsx@shanghaitech.edu.cn
 
