@@ -13,7 +13,7 @@
 
 - - -
 🎉 **News:**
-- 2023-02-28: A paper about weakly supervised video representation learning was accepted as **CVPR 2023**. (The pre-print is coming soon.)
+- 2023-02-28: A [paper](https://arxiv.org/abs/2303.12370) about weakly supervised video representation learning was accepted as **CVPR 2023**. (The pre-print is coming soon.)
 - 2022-03-28: A [paper](https://arxiv.org/abs/2204.01018) about repetition action counting was accepted as **CVPR 2022 Oral**.
 ---
 
