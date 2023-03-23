@@ -40,7 +40,7 @@
 
 📄 **Publications:**
   
-  * (CVPR2023) Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos. [[paper](https://arxiv.org/abs/2303.12370)]
+  * (CVPR2023) Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos. [[paper](https://arxiv.org/abs/2303.12370)][[code](https://github.com/svip-lab/WeakSVR/)]
 
  * (CVPR2022 Oral) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting [[paper](https://arxiv.org/abs/2204.01018)] [[code](https://github.com/SvipRepetitionCounting/TransRAC)][[dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)][[Youtube](https://youtu.be/SFpUS9mHHpk)][[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
 
