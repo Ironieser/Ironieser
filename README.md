@@ -28,7 +28,7 @@
 
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
-    - Process Equipment and Control Engineering (mojor)
+    - Process Equipment and Control Engineering (double degree)
 
     - Computer Science (minor)
 
