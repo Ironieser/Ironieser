@@ -23,14 +23,14 @@
 
 * Nowaday: [ShanghaiTech University](https://www.shanghaitech.edu.cn/) (postgraduate student)
 
-    - Computer Science (mojor)
+    - Computer Science (Mojor)
 
 
 * 2016-2020: [Dalian University of Technology](https://www.dlut.edu.cn) (undergraduate)
 
-    - Process Equipment and Control Engineering (double degree)
+    - Process Equipment and Control Engineering (Major)
 
-    - Computer Science (minor)
+    - Computer Science (Dual Degree)
 
 🔭 **Currently research:**
  * **CV**
