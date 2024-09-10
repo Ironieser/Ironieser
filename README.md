@@ -9,7 +9,7 @@
 </p>
 
  
-😄 I’m a First-Year Ph.D at [KDD Lab](https://www.public.asu.edu/~yanjiefu/group/index.html) at Arizona State University, supervised by professor [Yanjie Fu](https://www.public.asu.edu/~yanjiefu//). I got my Master's Degree from ShanghaiTech University's [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by professor [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).
+😄 I’m a First-Year Ph.D at [KDD Lab](https://www.public.asu.edu/~yanjiefu/group/index.html) at Arizona State University, supervised by professor [Yanjie Fu](https://www.public.asu.edu/~yanjiefu//). I got my Master's Degree from ShanghaiTech University, where I worked in [SVIP-Lab](https://svip-lab.github.io/team.html), supervised by professor [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ).
 
 
 - - -
