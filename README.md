@@ -65,7 +65,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 -->
-</h2>
+<!--</h2>-->
 
 <p align="center">
 <picture>
@@ -78,7 +78,7 @@
 ## 🎧Spotify Playing 
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i2flp3p8h79r8ekhw6zq238of&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=i2flp3p8h79r8ekhw6zq238of&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 -->
----
+- - -
 
 ![](https://komarev.com/ghpvc/?username=Ironieser&style=flat-square) 
 
