@@ -75,12 +75,6 @@
 </picture>
 </p>
 
-## Spotify Playing
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/i2flp3p8h79r8ekhw6zq238of)
-</div>
-
  
 ## 🎧Spotify Playing 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i2flp3p8h79r8ekhw6zq238of&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=i2flp3p8h79r8ekhw6zq238of&redirect=true)
