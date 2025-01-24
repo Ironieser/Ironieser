@@ -5,7 +5,7 @@
   <a href="https://www.zhihu.com/people/ironieser">Zhihu</a> •
   <a href="https://twitter.com/ironieser">Twitter</a> •
   <a href = "mailto:ironieser@gmail.com">Gmail</a> •
-  <a href = "mailto:dongsx@shanghaitech.edu.cn">Email@edu</a>
+  <a href = "mailto:sixundong@asu.edu">Email@edu</a>
 </p>
 
  
