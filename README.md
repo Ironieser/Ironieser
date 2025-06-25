@@ -32,17 +32,25 @@ I'm a **PhD Student** at [KDD Lab](https://sites.google.com/site/kddlaboratory/)
 
 ### 📚 **Recent Publications**
 
-🔥 **CVPR 2023** - [Weakly Supervised Video Representation Learning](https://arxiv.org/abs/2303.12370)  
-*First Author* | Video-text alignment without frame-level supervision
+🔥 **CVPR 2023** - **Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos**  
+*First Author* | Video-text alignment without frame-level supervision  
+[[Paper](https://arxiv.org/abs/2303.12370)] [[Code](https://github.com/svip-lab/WeakSVR/)]
 
-🔥 **CVPR 2022 Oral** - [TransRAC: Multi-scale Temporal Transformers](https://arxiv.org/abs/2204.01018)  
-*First Author* | Repetitive action counting with transformer architecture
+🔥 **CVPR 2022 Oral** - **TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**  
+*First Author* | Repetitive action counting with transformer architecture  
+[[Paper](https://arxiv.org/abs/2204.01018)] [[Code](https://github.com/SvipRepetitionCounting/TransRAC)] [[Dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)] [[YouTube](https://youtu.be/SFpUS9mHHpk)] [[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
 
-🔥 **WACV 2024** - [MLLM-Tool: Multimodal LLM for Tool Learning](https://arxiv.org/abs/2401.10727)  
-Equipping LLMs with multimodal tool-use capabilities
+🔥 **WACV 2024** - **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  
+Equipping LLMs with multimodal tool-use capabilities  
+[[Paper](https://arxiv.org/abs/2401.10727)] [[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
-🔥 **IJCAI 2025** - [Unsupervised Feature Transformation](https://arxiv.org/abs/2504.21304)  
-LLM agents for intelligent feature engineering
+🔥 **3DV 2024** - **RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation**  
+Indoor scene generation with style and shape consistency  
+[[Paper](https://arxiv.org/abs/2310.10027)] [[Code](https://github.com/zhao-yiqun/RoomDesigner)]
+
+🔥 **IJCAI 2025** - **Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**  
+LLM agents for intelligent feature engineering  
+[[Paper](https://arxiv.org/abs/2504.21304)]
 
 ### 🚀 **Current Projects**
 - **Efficient Vision-Language Models**: Token pruning strategies for VLM acceleration
@@ -53,7 +61,7 @@ LLM agents for intelligent feature engineering
 
 ## 🛠 Technical Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,linux,git,bash,docker" />
 </p>
 
