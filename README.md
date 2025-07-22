@@ -15,7 +15,7 @@
 
 ## 🎓 About Me
 
-I'm a **PhD Student** at [KDD Lab](https://sites.google.com/site/kddlaboratory/), Arizona State University, supervised by Professor [Yanjie Fu](https://faculty.engineering.asu.edu/yanjiefu/). I focus on cutting-edge research in **multimodal learning**, **computer vision**, and **LLM agents**. My work bridges the gap between vision, language, and temporal understanding, with a particular emphasis on weakly supervised learning and efficient model design.
+I focus on cutting-edge research in **multimodal learning**, **computer vision**, and **LLM agents**. My work bridges the gap between vision, language, and temporal understanding, with a particular emphasis on weakly supervised learning and efficient model design.
 
 🔬 **Research Interests:**
 - **Multimodal Learning**: Vision-Language Models, Cross-modal Understanding
@@ -83,7 +83,7 @@ LLM agents for intelligent feature engineering
 
 ### 🔬 **Current Position**
 **Research Assistant**  ｜ ASU SCAI ｜ 2024 Aug - Present  
-*Advisor: Prof. Yanjie Fu | Focus: Multimodal Learning, Computer Vision, LLM Agent*
+Focus: Multimodal Learning, Computer Vision, LLM Agent*
 
 ### 🏢 **Industry Experience**
 **GenAI Research Intern** | Zoom Inc. | May 2025 - Present  
@@ -98,7 +98,6 @@ LLM agents for intelligent feature engineering
 ---
 
 ## 🎓 Education
-🎓 **PhD Student** | KDD Lab, Arizona State University | 2024 - Present  
 
 🎓 **M.S. Computer Science** | ShanghaiTech University | 2024  
 *[SVIP-Lab](https://svip-lab.github.io/team.html), Advisor: Prof. [Shenghua Gao](https://scholar.google.com/citations?hl=zh-CN&user=fe-1v0MAAAAJ)*
