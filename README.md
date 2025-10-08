@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://cv.ironieser.cc">🌐 Homepage</a> •
   <a href="https://github.com/Ironieser">💻 GitHub</a> •
-  <a href="mailto:sdong46@asu.edu">📧 Email</a> •
+  <a href="mailto:sixundong.ai@gmail.com">📧 Email</a> •
   <a href="https://scholar.google.com/citations?user=fuR1FBwAAAAJ&hl=en">🎓 Google Scholar</a>
 </p>
 
@@ -148,7 +148,7 @@ Focus: Multimodal Learning, Computer Vision, LLM Agent*
 
 *"Building the future of multimodal AI, one model at a time."*
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdong46@asu.edu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sixundong.ai@gmail.com)
 [![Homepage](https://img.shields.io/badge/-Homepage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cv.ironieser.cc)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fuR1FBwAAAAJ&hl=en)
 
