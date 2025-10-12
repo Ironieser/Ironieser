@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Independent+Researcher@USA;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+IJCAI+%7CWACV+%7C+3DV+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Independent+Researcher+@+USA;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+IJCAI+%7CWACV+%7C+3DV+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 ---
