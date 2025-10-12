@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Research+Assistant+%40+ASU;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+IJCAI+%7CWACV+%7C+3DV+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Independent Researcher;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+IJCAI+%7CWACV+%7C+3DV+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 ---
@@ -52,10 +52,13 @@ Indoor scene generation with style and shape consistency
 LLM agents for intelligent feature engineering  
 [[Paper](https://arxiv.org/abs/2504.21304)]
 
+🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
+Auto-regressive and diffusion model for feature engineering  
+[[Paper](https://arxiv.org/abs/2505.15152)]
+
 ### 🚀 **Current Projects**
 - **Efficient Vision-Language Models**: Token pruning strategies for VLM acceleration
-- **Time Series Forecasting**: Teaching time series to "see and speak" with visual-textual alignment
-- **Agentic Feature Augmentation**: Agent-driven feature transformation with planning and memory
+- **Vision-Language Models Evaluation**: Better evaluation strategy for VLMs
 
 ---
 
@@ -82,11 +85,11 @@ LLM agents for intelligent feature engineering
 ## 💼 Professional Experience
 
 ### 🔬 **Current Position**
-**Research Assistant**  ｜ ASU SCAI ｜ 2024 Aug - Present  
+**Independent Researcher**  ｜ US, Tempe ｜  Present  
 Focus: Multimodal Learning, Computer Vision, LLM Agent*
 
 ### 🏢 **Industry Experience**
-**GenAI Research Intern** | Zoom Inc. | May 2025 - Present  
+**GenAI Research Intern** | Zoom Inc. | May 2025 - Aug 2025
 *Efficient Vision-Language Modeling*
 
 **Research Intern (Team Leader)** | DGene | Nov 2023 - Jan 2024  
