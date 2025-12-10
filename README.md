@@ -4,7 +4,7 @@
   <a href="https://cv.ironieser.cc">🌐 Homepage</a> •
   <a href="https://github.com/Ironieser">💻 GitHub</a> •
   <a href="mailto:sixundong.ai@gmail.com">📧 Email</a> •
-  <a href="https://scholar.google.com/citations?user=fuR1FBwAAAAJ&hl=en">🎓 Google Scholar</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=j71Y2-4AAAAJ">🎓 Google Scholar</a>
 </p>
 
 <p align="center">
