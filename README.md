@@ -36,14 +36,14 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 *First Author* | Training-free VLM Inference Speed Up x 1.87  
 [[Paper](https://arxiv.org/abs/2508.18264)] [[Code](https://github.com/Ironieser/MMTok)]
 
+🔥 **ICASSP 2026** - **Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**  
+LLM agents for Robust Dysarthric Speech Recognition   
+[[Paper(Coming Soon)]]
+
+
 🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
 Auto-regressive and diffusion model for feature engineering  
 [[Paper](https://arxiv.org/abs/2505.15152)]
-
-🔥 **IJCAI 2025** - **Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**  
-LLM agents for intelligent feature engineering  
-[[Paper](https://arxiv.org/abs/2504.21304)]
-
 
 🔥 **WACV 2024** - **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  
 Equipping LLMs with multimodal tool-use capabilities  
