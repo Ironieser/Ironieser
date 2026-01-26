@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Independent+Researcher+@+USA;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+IJCAI+%7CWACV+%7C+3DV+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Independent+Researcher+@+USA;Multimodal+Learning+Researcher;Computer+Vision+%26+VLM+Agent;CVPR+%7C+NeurIPS+%7C+ICLR+%7C+IJCAI+%7CWACV+%7C+3DV+%7C+ICASSP+Author&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 ---
@@ -32,13 +32,18 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 
 ### 📚 **Recent Publications**
 
-🔥 **CVPR 2023** - **Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos**  
-*First Author* | Video-text alignment without frame-level supervision  
-[[Paper](https://arxiv.org/abs/2303.12370)] [[Code](https://github.com/svip-lab/WeakSVR/)]
+🔥 **ICLR 2026** - **MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs**  
+*First Author* | Training-free VLM Inference Speed Up x 1.87  
+[[Paper](https://arxiv.org/abs/2508.18264)] [[Code](https://github.com/Ironieser/MMTok)]
 
-🔥 **CVPR 2022 Oral** - **TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**  
-*First Author* | Repetitive action counting with transformer architecture  
-[[Paper](https://arxiv.org/abs/2204.01018)] [[Code](https://github.com/SvipRepetitionCounting/TransRAC)] [[Dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)] [[YouTube](https://youtu.be/SFpUS9mHHpk)] [[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
+🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
+Auto-regressive and diffusion model for feature engineering  
+[[Paper](https://arxiv.org/abs/2505.15152)]
+
+🔥 **IJCAI 2025** - **Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**  
+LLM agents for intelligent feature engineering  
+[[Paper](https://arxiv.org/abs/2504.21304)]
+
 
 🔥 **WACV 2024** - **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  
 Equipping LLMs with multimodal tool-use capabilities  
@@ -48,13 +53,15 @@ Equipping LLMs with multimodal tool-use capabilities
 Indoor scene generation with style and shape consistency  
 [[Paper](https://arxiv.org/abs/2310.10027)] [[Code](https://github.com/zhao-yiqun/RoomDesigner)]
 
-🔥 **IJCAI 2025** - **Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**  
-LLM agents for intelligent feature engineering  
-[[Paper](https://arxiv.org/abs/2504.21304)]
 
-🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
-Auto-regressive and diffusion model for feature engineering  
-[[Paper](https://arxiv.org/abs/2505.15152)]
+🔥 **CVPR 2023** - **Weakly Supervised Video Representation Learning with Unaligned Text for Sequential Videos**  
+*First Author* | Video-text alignment without frame-level supervision  
+[[Paper](https://arxiv.org/abs/2303.12370)] [[Code](https://github.com/svip-lab/WeakSVR/)]
+
+🔥 **CVPR 2022 Oral** - **TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**  
+*First Author* | Repetitive action counting with transformer architecture  
+[[Paper](https://arxiv.org/abs/2204.01018)] [[Code](https://github.com/SvipRepetitionCounting/TransRAC)] [[Dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)] [[YouTube](https://youtu.be/SFpUS9mHHpk)] [[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
+
 
 ### 🚀 **Current Projects**
 - **Efficient Vision-Language Models**: Token pruning strategies for VLM acceleration
@@ -125,7 +132,7 @@ Focus: Multimodal Learning, Computer Vision, LLM Agent*
 
 ## 🤝 Academic Service
 
-**Reviewer for:** CVPR (2023-2025), ICCV (2023-2025), ECCV (2024), ACM MM (2023-2025), ACCV (2024), KDD (2024), NeurIPS 2025, TMM, Neural Networks, TKDD
+**Reviewer for:** CVPR 2023+, ICCV 2023+, ECCV 2024+, ACM MM (2023-2025), ACCV (2024), KDD (2024), NeurIPS 2025, ICML 2025, ICLR 2026, TMM, Neural Networks, TKDD
 
 ---
 
