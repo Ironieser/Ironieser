@@ -30,7 +30,7 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 
 ## 🏆 Research Highlights
 
-### 📚 **Recent Publications**
+### 📚 **Selected Publications**
 
 🔥 **ICLR 2026** - **MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs**  
 *First Author* | Training-free VLM Inference Speed Up x 1.87  
