@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Sixun Dong (Ironieser)</h2>
 
 <p align="center">
-  <a href="https://cv.ironieser.cc">🌐 Homepage</a> •
+  <a href="https://sixundong.com">🌐 Homepage</a> •
   <a href="https://github.com/Ironieser">💻 GitHub</a> •
   <a href="mailto:sixundong.ai@gmail.com">📧 Email</a> •
   <a href="https://scholar.google.com/citations?hl=en&user=j71Y2-4AAAAJ">🎓 Google Scholar</a>
