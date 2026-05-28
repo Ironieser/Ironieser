@@ -38,7 +38,7 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 
 🔥 **ICASSP 2026** - **Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**  
 LLM agents for Robust Dysarthric Speech Recognition   
-[[Paper(Coming Soon)]]
+[[Paper(https://arxiv.org/abs/2601.21347)]]
 
 
 🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
