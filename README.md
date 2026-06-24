@@ -32,6 +32,10 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 
 ### 📚 **Selected Publications**
 
+🔥 **ECCV 2026** - **Better Call CineCrew: Consistent Ultra-Long Narrative-to-Film Generation**  
+*First Author* | Agentic Film Generation Through Film-Oriented Domain Specific Language
+[[Code](https://github.com/Ironieser/CineCrew)]
+
 🔥 **ICLR 2026** - **MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs**  
 *First Author* | Training-free VLM Inference Speed Up x 1.87  
 [[Paper](https://arxiv.org/abs/2508.18264)] [[Code](https://github.com/Ironieser/MMTok)]
