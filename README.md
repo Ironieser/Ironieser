@@ -42,12 +42,12 @@ I focus on cutting-edge research in **multimodal learning**, **computer vision**
 
 🔥 **ICASSP 2026** - **Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**  
 LLM agents for Robust Dysarthric Speech Recognition   
-[[Paper(https://arxiv.org/abs/2601.21347)]]
+[[Paper(https://arxiv.org/abs/2601.21347)]][[Code](https://github.com/xiuwenz2/SAP-Hypo5)]
 
 
 🔥 **NeurIps 2025** - **Sculpting Features from Noise: Reward-Guided Hierarchical Diffusion for Task-Optimal Feature Transformation**  
 Auto-regressive and diffusion model for feature engineering  
-[[Paper](https://arxiv.org/abs/2505.15152)]
+[[Paper](https://arxiv.org/abs/2505.15152)][[Code](https://github.com/NanxuGong/DIFFT)]
 
 🔥 **WACV 2024** - **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  
 Equipping LLMs with multimodal tool-use capabilities  
