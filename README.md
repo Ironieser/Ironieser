@@ -62,7 +62,7 @@ Indoor scene generation with style and shape consistency
 *First Author* | Video-text alignment without frame-level supervision  
 [[Paper](https://arxiv.org/abs/2303.12370)] [[Code](https://github.com/svip-lab/WeakSVR/)]
 
-🔥 **CVPR 2022 Oral** - **TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**  
+🔥 **CVPR 2022 Oral🏆** - **TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**  
 *First Author* | Repetitive action counting with transformer architecture  
 [[Paper](https://arxiv.org/abs/2204.01018)] [[Code](https://github.com/SvipRepetitionCounting/TransRAC)] [[Dataset](https://svip-lab.github.io/dataset/RepCount_dataset.html)] [[YouTube](https://youtu.be/SFpUS9mHHpk)] [[Bilibili](https://www.bilibili.com/video/BV1B94y1S7oP?share_source=copy_web)]
 
